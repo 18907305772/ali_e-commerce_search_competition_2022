@@ -1,0 +1,1 @@
+python 4.get_data_embeddings.py --model_path="../result/baseline/checkpoint-1400/"
